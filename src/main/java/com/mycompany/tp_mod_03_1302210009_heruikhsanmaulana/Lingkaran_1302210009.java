@@ -27,6 +27,19 @@ public class Lingkaran_1302210009 {
         return (22.0 / 7.0) * 2.0 * jari;
     }
 
+    public void printWarna_1302210009() {
+        System.out.println("Warna lingkaran adalah " + warna);
+    }
+
+    public void setWarna_1302210009(String WarnaLingkaran) {
+        warna = WarnaLingkaran;
+    }
+
+    public double calculateKeliling() {
+        return (22.0 / 7.0) * 2.0 * jari;
+    }
+
+    
     public void printkeliling_1302210009() {
         double keliling = calculateKeliling();
         System.out.println("Keliling objek lingkaran adalah " + keliling);
