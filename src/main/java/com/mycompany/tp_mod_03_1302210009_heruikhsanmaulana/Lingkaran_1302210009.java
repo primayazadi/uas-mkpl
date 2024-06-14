@@ -23,9 +23,6 @@ public class Lingkaran_1302210009 {
         warna = WarnaLingkaran;
     }
 
-    public double calculateKeliling() {
-        return (22.0 / 7.0) * 2.0 * jari;
-    }
 
     public void printWarna_1302210009() {
         System.out.println("Warna lingkaran adalah " + warna);
